@@ -1,10 +1,10 @@
 # frontend
 
 ## Project setup
-node version -> 16.14.2,
-run: npm install
+1. node version -> 16.14.2,
+2. run: npm install
 
 ## Run frontend in dev mode in your localhost
-npm run dev,
+1. npm run dev,
 
-The frontend will connect to the backend at : localhost:5000
+2. The frontend will connect to the backend at : localhost:5000
